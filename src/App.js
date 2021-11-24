@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test not trigger aws
+          Test not trigger aws  ...
         </p>
         <a
           className="App-link"
