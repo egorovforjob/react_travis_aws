@@ -8,4 +8,4 @@ before_install:
 
 script:
         - docker run -e CI=true egorovforjob/react_travis_aws npm run test -- --coverage
-
+#
